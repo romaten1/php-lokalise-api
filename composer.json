@@ -1,5 +1,5 @@
 {
-  "name": "lokalise/php-lokalise-api",
+  "name": "romaten1/php-lokalise-api",
   "type": "library",
   "description": "Lokalise API client",
   "homepage": "https://app.lokalise.com/api2docs/curl/",
